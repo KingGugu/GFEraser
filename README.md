@@ -1,5 +1,5 @@
 ## GFEraser
-Official source code for TOIS 2024 paper: Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences
+Official source code for TOIS 2024 paper: [Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences](https://dl.acm.org/doi/10.1145/3706633)
 
 
 ## Datasets
