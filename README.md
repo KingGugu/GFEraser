@@ -27,3 +27,20 @@ python main.py --data_name=Yelp --original_model=LightGCN --cl_weight=0.4 --pos_
 Some models are implemented based on [SELFRec](https://github.com/Coder-Yu/SELFRec).
 
 Thanks for providing efficient implementation.
+
+
+## Reference
+
+Please cite our paper if you use this code.
+```
+@article{dang2025efficient,
+  title={Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences},
+  author={Dang, Yizhou and Liu, Yuting and Yang, Enneng and Guo, Guibing and Jiang, Linying and Zhao, Jianzhe and Wang, Xingwei},
+  journal={ACM Transactions on Information Systems},
+  volume={43},
+  number={2},
+  pages={1--25},
+  year={2025},
+  publisher={ACM New York, NY}
+}
+```
